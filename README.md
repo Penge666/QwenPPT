@@ -47,3 +47,11 @@ optional arguments:
 ![image-20250319111054817](README/image-20250319111054817.png)
 
 https://bailian.console.aliyun.com/#/model-market/detail/qwen1.5-7b-chat?tabKey=sdk
+
+
+
+# Other
+
+gamma.app
+
+aippt.cn
